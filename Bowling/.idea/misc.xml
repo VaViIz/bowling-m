@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.196" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/drawable/ic_launcher_background.xml" value="0.196" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout-land/activity_booking.xml" value="0.31040564373897706" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout-land/activity_main.xml" value="0.21516754850088182" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout-land/activity_register.xml" value="0.21516754850088182" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout-v21/activity_booking.xml" value="0.4" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout-v28/activity_booking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_booking.xml" value="0.2796875" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_gallery.xml" value="0.31521739130434784" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_register.xml" value="0.23369565217391305" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/activity_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/gallery_cards.xml" value="0.2" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/gallery_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/layout/list_item.xml" value="0.2796875" />
+        <entry key="..\:/Szte/6.felev/mobilalk/projektek/Bowling/app/src/main/res/menu/menu.xml" value="0.2796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

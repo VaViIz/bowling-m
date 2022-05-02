@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Bowling</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password">Jelszó</string>
+    <string name="userName">Felhasználónév</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="cancel">Mégse</string>
+    <string name="img_info">Leírás</string>
+    <string name="go_booking">Foglalás</string>
+    <string name="delete">Törlés</string>
+    <string name="update">Módosít</string>
+
+
+    <string-array name="img_info">
+        <item>Számos pályát biztosítunk a játszani kívánó vendégeiknek, ami a pálya felett található elkápráztató dekorációhoz hasonlóan neon színekben pompázik.</item>
+        <item>Ha éppen nem te vagy soros a játékban akkor a kényelmes fotelinkbe elterülve élvezheted a játéktársaid gurításait.</item>
+        <item>Meg szeretnéd örökíteni ezt a csodás napot, de unalmas lenne a kép a bowling pályával a háttérben? Akkor se kell pánikba esni. Ezt a csodás neon falat pont emiatt helyeztük el. Garantáltan minden ismerősöd lenyűgöződ az itt készült képekkel.</item>
+        <item>Mi a helyedbe a bárunkba található jobbnál jobb koktélokkal tennénk teljessé a bowling játszmát. És mint ahogy láthatod a mi italainknak nem csak az ízük isteni, de még a látványuk igazán különleges.</item>
+        <item>Az ínycsiklandó koktélok mellett kényelmes kanapékkal és jó zenékkel várjuk azokat a vendégeket is akik nem feltételül magáért a bowling játék élményért néznek be hozzánk.</item>
+    </string-array>
+
+    <array name="img">
+        <item>@drawable/elso</item>
+        <item>@drawable/masodik</item>
+        <item>@drawable/harmadik</item>
+        <item>@drawable/negyedik</item>
+        <item>@drawable/otodik</item>
+    </array>
+
+    <string-array name="times">
+        <item>12:00 – 13:00</item>
+        <item>13:00 – 14:00</item>
+        <item>14:00 – 15:00</item>
+        <item>15:00 – 16:00</item>
+        <item>14:00 – 15:00</item>
+        <item>15:00 – 16:00</item>
+        <item>16:00 – 17:00</item>
+        <item>17:00 – 18:00</item>
+        <item>18:00 – 19:00</item>
+        <item>19:00 – 20:00</item>
+        <item>20:00 – 21:00</item>
+        <item>21:00 – 22:00</item>
+        <item>22:00 – 23:00</item>
+        <item>23:00 – 24:00</item>
+    </string-array>
+
+
+</resources>
