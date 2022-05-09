@@ -16,6 +16,10 @@ android {
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
+    
+    packagingOptions{
+        pickFirst "androidsupportmultidexversion.txt"
+    }
 
     buildTypes {
         release {
